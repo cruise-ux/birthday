@@ -52014,7 +52014,7 @@ o2(){var s=0,r=A.D(t.H),q=this,p
 var $async$o2=A.E(function(a,b){if(a===1)return A.A(b,r)
 while(true)switch(s){case 0:p=q.e
 s=2
-return A.J(p.l4("assets/happy-birthday-4-version-166418.mp3"),$async$o2)
+return A.J(p.l4("Images/happy-birthday-4-version-166418.mp3"),$async$o2)
 case 2:p.nf(B.fG)
 p.co()
 return A.B(null,r)}})
@@ -52028,13 +52028,13 @@ o3(){var s=0,r=A.D(t.H),q=this,p
 var $async$o3=A.E(function(a,b){if(a===1)return A.A(b,r)
 while(true)switch(s){case 0:p=q.f
 s=2
-return A.J(p.l4("assets/balloon-pop-179010.mp3"),$async$o3)
+return A.J(p.l4("Images/balloon-pop-179010.mp3"),$async$o3)
 case 2:p.co()
 return A.B(null,r)}})
 return A.C($async$o3,r)},
 PZ(a){this.aD(new A.WZ(this,a))
 this.o3()},
-R(a){var s,r,q=this,p=null,o="Happy Birthday! \nMy mentor,",n=t.nA,m=A.a([A.agw(0,A.a6y("assets/birthday.jpg",B.e7,B.uw,p,p))],n),l=J.yg(10,t.cl)
+R(a){var s,r,q=this,p=null,o="Happy Birthday! \nMy mentor,",n=t.nA,m=A.a([A.agw(0,A.a6y("Images/birthday.jpg",B.e7,B.uw,p,p))],n),l=J.yg(10,t.cl)
 for(s=0;s<10;++s)l[s]=q.KG(s)
 B.b.G(m,l)
 r=q.d
@@ -52049,7 +52049,7 @@ n.toString
 n=A.dq(n,p,t.w).w
 s=B.bg.c9()
 r=B.bg.c9()*40+50
-q=this.w[a]?A.MN(p,A.a6y("assets/ballon-removebg-preview.png",B.O,p,r*1.5,r),B.bk,!1,p,p,p,p,p,p,p,p,p,p,p,p,new A.WY(this,a),p,p,p):A.ae_(p,p,p,p,p,p,p)
+q=this.w[a]?A.MN(p,A.a6y("Images/ballon-removebg-preview.png",B.O,p,r*1.5,r),B.bk,!1,p,p,p,p,p,p,p,p,p,p,p,p,new A.WY(this,a),p,p,p):A.ae_(p,p,p,p,p,p,p)
 return A.a3e(s*200,q,p,p,o*n.a.a,p,p,p)}}
 A.X_.prototype={
 $0(){var s=this.a
